@@ -1,0 +1,17 @@
+/Users/artempacev/HMFG/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/artempacev/HMFG/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/artempacev/HMFG/obj/Debug/Assembly-CSharp.dll
+/Users/artempacev/HMFG/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/artempacev/HMFG/Temp/bin/Debug/UnityEngine.dll
+/Users/artempacev/HMFG/Temp/bin/Debug/UnityEditor.dll
+/Users/artempacev/HMFG/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/artempacev/HMFG/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/artempacev/HMFG/Temp/bin/Debug/Mono.Cecil.dll
+/Users/artempacev/HMFG/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/artempacev/HMFG/Temp/bin/Debug/Unity.DataContract.dll
+/Users/artempacev/HMFG/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/artempacev/HMFG/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/artempacev/HMFG/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/artempacev/HMFG/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/artempacev/HMFG/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/artempacev/HMFG/Temp/bin/Debug/Mono.Cecil.Mdb.dll
