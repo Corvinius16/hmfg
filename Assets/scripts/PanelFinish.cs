@@ -8,11 +8,22 @@ public class PanelFinish : MonoBehaviour {
 
 	public Sprite Win;
 	public Sprite Lose;
-	public GameController GC;
+	GameController GC;
+	public Button Menu;
+	public Button Restart;
+	public Button Next;
+
 	// Use this for initialization
+	void Awake()
+	{
+		GC = GameObject.FindGameObjectWithTag ("GameController").GetComponent<GameController> ();
+	}
+
 	void Start () {
-	//	GC = GameObject.FindGameObjectWithTag ("GameController").GetComponent<GameController> ();
+		Menu.onClick.AddListener (() => GC.loadScene (0));
+		Restart.onClick.AddListener (() => GC.Replay ());
 		WinOrLose ();
+
 	}
 	public void WinOrLose()
 	{
@@ -30,4 +41,5 @@ public class PanelFinish : MonoBehaviour {
 			FirstStar.sprite = Win;
 		}
 	}
+
 }

@@ -56,9 +56,7 @@ public class Move : MonoBehaviour{
 	{
 		if (Gc.GetComponent<GameController> ().move) {
 			click = true;
-			#if !UNITY_ANDROID||UNITY_EDITOR
 			reset = true;
-			#endif
 		}
 		//this.gameObject.GetComponent<CircleCollider2D> ().radius = 0.26f;	
 	}
