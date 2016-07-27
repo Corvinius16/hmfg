@@ -38,10 +38,15 @@ public class Enemy : MonoBehaviour {
 		StartCoroutine (time ());
 	}
 
-	public void OnCollisionEnter2D(Collision2D _other)
+	public void OnCollisionStay2D(Collision2D _other)
 	{
 		if(GameController.take)
 		GameController.DeadEvent();
+	}
+	public void OnCollisionEnter2D(Collision2D _other)
+	{
+		if(GameController.take)
+			GameController.DeadEvent();
 	}
 
 	IEnumerator time()

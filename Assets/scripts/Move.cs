@@ -7,7 +7,7 @@ public class Move : MonoBehaviour{
 	public bool reset=true;
 	public bool click;
 
-
+	public AudioClip clip;
 
 	void Awake()
 	{
@@ -57,6 +57,7 @@ public class Move : MonoBehaviour{
 		if (Gc.GetComponent<GameController> ().move) {
 			click = true;
 			reset = true;
+			AudioSource.PlayClipAtPoint (clip, this.transform.position);
 		}
 		//this.gameObject.GetComponent<CircleCollider2D> ().radius = 0.26f;	
 	}

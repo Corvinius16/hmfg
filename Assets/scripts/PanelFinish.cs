@@ -12,16 +12,18 @@ public class PanelFinish : MonoBehaviour {
 	public Button Menu;
 	public Button Restart;
 	public Button Next;
-
+	Singleton singl;
 	// Use this for initialization
 	void Awake()
 	{
 		GC = GameObject.FindGameObjectWithTag ("GameController").GetComponent<GameController> ();
+		singl = GameObject.FindGameObjectWithTag ("Singleton").GetComponent<Singleton> ();
 	}
 
 	void Start () {
 		Menu.onClick.AddListener (() => GC.loadScene (0));
 		Restart.onClick.AddListener (() => GC.Replay ());
+//		Next.onClick.AddListener(()=>GC.loadScene(singl.
 		WinOrLose ();
 
 	}

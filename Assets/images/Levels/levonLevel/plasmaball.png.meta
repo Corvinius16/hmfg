@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: 8474cd7977667294c8761ab45ab2935a
+timeCreated: 1469540798
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: plasmaball_0
+    21300002: plasmaball_1
+    21300004: plasmaball_2
+    21300006: plasmaball_3
+    21300008: plasmaball_4
+    21300010: plasmaball_5
+    21300012: plasmaball_6
+    21300014: plasmaball_7
+    21300016: plasmaball_8
+    21300018: plasmaball_9
+    21300020: plasmaball_10
+    21300022: plasmaball_11
+    21300024: plasmaball_12
+    21300026: plasmaball_13
+    21300028: plasmaball_14
+    21300030: plasmaball_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: plasmaball_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 384
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 52.5}
+        - {x: -53, y: 25.5}
+        - {x: -53, y: -43.5}
+        - {x: -29, y: -52.5}
+        - {x: 38, y: -52.5}
+        - {x: 53, y: -41.5}
+        - {x: 53, y: 36.5}
+        - {x: 35, y: 52.5}
+    - name: plasmaball_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 384
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 53}
+        - {x: -52.5, y: 45}
+        - {x: -52.5, y: -41}
+        - {x: -48.5, y: -53}
+        - {x: 52.5, y: -53}
+        - {x: 52.5, y: 46}
+        - {x: 43.5, y: 53}
+    - name: plasmaball_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 384
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 52.5}
+        - {x: -43, y: 40.5}
+        - {x: -53, y: 24.5}
+        - {x: -53, y: -40.5}
+        - {x: -28, y: -52.5}
+        - {x: 44, y: -52.5}
+        - {x: 53, y: -34.5}
+        - {x: 53, y: 40.5}
+        - {x: 23, y: 52.5}
+    - name: plasmaball_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 384
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 52.5}
+        - {x: -53, y: 42.5}
+        - {x: -53, y: -36.5}
+        - {x: -32, y: -52.5}
+        - {x: 46, y: -52.5}
+        - {x: 53, y: -41.5}
+        - {x: 53, y: 52.5}
+    - name: plasmaball_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 52.5}
+        - {x: -53, y: 50.5}
+        - {x: -53, y: -52.5}
+        - {x: 48, y: -52.5}
+        - {x: 53, y: -29.5}
+        - {x: 53, y: 30.5}
+        - {x: 38, y: 52.5}
+    - name: plasmaball_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 256
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 52.5}
+        - {x: -48, y: 49.5}
+        - {x: -53, y: 29.5}
+        - {x: -53, y: -33.5}
+        - {x: -30, y: -52.5}
+        - {x: 29, y: -52.5}
+        - {x: 53, y: -29.5}
+        - {x: 53, y: 30.5}
+        - {x: 30, y: 52.5}
+    - name: plasmaball_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 256
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 52.5}
+        - {x: -53, y: 28.5}
+        - {x: -53, y: -29.5}
+        - {x: -32, y: -52.5}
+        - {x: 31, y: -52.5}
+        - {x: 53, y: -39.5}
+        - {x: 53, y: 30.5}
+        - {x: 42, y: 52.5}
+    - name: plasmaball_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 256
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 52.5}
+        - {x: -49, y: 52.5}
+        - {x: -53, y: 36.5}
+        - {x: -53, y: -45.5}
+        - {x: -44, y: -52.5}
+        - {x: 41, y: -52.5}
+        - {x: 53, y: -32.5}
+        - {x: 53, y: 22.5}
+        - {x: 50, y: 35.5}
+    - name: plasmaball_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 128
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: 52.5}
+        - {x: -49.5, y: 52.5}
+        - {x: -52.5, y: 51.5}
+        - {x: -52.5, y: -44.5}
+        - {x: -40.5, y: -52.5}
+        - {x: 27.5, y: -52.5}
+        - {x: 52.5, y: -45.5}
+        - {x: 52.5, y: 27.5}
+        - {x: 48.5, y: 35.5}
+    - name: plasmaball_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 128
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 52.5}
+        - {x: -52.5, y: 43.5}
+        - {x: -52.5, y: -34.5}
+        - {x: -46.5, y: -52.5}
+        - {x: 34.5, y: -52.5}
+        - {x: 52.5, y: -37.5}
+        - {x: 52.5, y: 27.5}
+        - {x: 40.5, y: 52.5}
+    - name: plasmaball_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 128
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 52.5}
+        - {x: -53, y: 30.5}
+        - {x: -53, y: -36.5}
+        - {x: -47, y: -52.5}
+        - {x: 37, y: -52.5}
+        - {x: 53, y: -38.5}
+        - {x: 53, y: 34.5}
+        - {x: 49, y: 52.5}
+    - name: plasmaball_11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 128
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 52.5}
+        - {x: -53, y: -37.5}
+        - {x: -42, y: -52.5}
+        - {x: 44, y: -52.5}
+        - {x: 53, y: -24.5}
+        - {x: 53, y: 42.5}
+        - {x: 49, y: 52.5}
+    - name: plasmaball_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: 39.5}
+        - {x: 27.5, y: 52.5}
+        - {x: -47.5, y: 52.5}
+        - {x: -52.5, y: 29.5}
+        - {x: -52.5, y: -35.5}
+        - {x: -44.5, y: -48.5}
+        - {x: -28.5, y: -52.5}
+        - {x: 28.5, y: -52.5}
+        - {x: 35.5, y: -45.5}
+        - {x: 52.5, y: -24.5}
+        - {x: 52.5, y: 27.5}
+    - name: plasmaball_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 52.5}
+        - {x: -24.5, y: 52.5}
+        - {x: -43.5, y: 47.5}
+        - {x: -52.5, y: 24.5}
+        - {x: -52.5, y: -29.5}
+        - {x: -29.5, y: -52.5}
+        - {x: 26.5, y: -52.5}
+        - {x: 50.5, y: -43.5}
+        - {x: 52.5, y: -32.5}
+        - {x: 52.5, y: 37.5}
+    - name: plasmaball_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 52.5}
+        - {x: -52.5, y: 37.5}
+        - {x: -52.5, y: -28.5}
+        - {x: -34.5, y: -47.5}
+        - {x: -18.5, y: -52.5}
+        - {x: 29.5, y: -52.5}
+        - {x: 52.5, y: -37.5}
+        - {x: 52.5, y: 46.5}
+        - {x: 35.5, y: 52.5}
+    - name: plasmaball_15
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 52.5}
+        - {x: -53, y: 37.5}
+        - {x: -53, y: -40.5}
+        - {x: -41, y: -52.5}
+        - {x: 35, y: -52.5}
+        - {x: 53, y: -40.5}
+        - {x: 53, y: 43.5}
+        - {x: 31, y: 52.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

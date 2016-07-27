@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &130610
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 449486}
+  - 212: {fileID: 21284772}
+  - 68: {fileID: 6858392}
+  - 114: {fileID: 11412504}
+  - 114: {fileID: 11453390}
+  m_Layer: 0
+  m_Name: Shestrernya (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &449486
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 130610}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.32, y: -0.17, z: 7.8762503}
+  m_LocalScale: {x: 0.35617563, y: 0.35617578, z: 0.35617578}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!68 &6858392
+EdgeCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 130610}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_Offset: {x: 0, y: 0}
+  m_Points:
+  - {x: 6.3767977, y: 0.83488506}
+  - {x: 4.9957633, y: 0.91216886}
+  - {x: 4.1624675, y: 2.880626}
+  - {x: 5.1417866, y: 3.9763994}
+  - {x: 3.9984708, y: 5.0608406}
+  - {x: 3.9302316, y: 5.072542}
+  - {x: 2.8919964, y: 4.092632}
+  - {x: 0.84227073, y: 4.934239}
+  - {x: 0.88018167, y: 6.413244}
+  - {x: -0.8426586, y: 6.3129544}
+  - {x: -0.7929281, y: 4.932935}
+  - {x: -2.938943, y: 3.9663503}
+  - {x: -3.5524657, y: 4.7497416}
+  - {x: -3.8362894, y: 5.087516}
+  - {x: -3.9433863, y: 5.2468076}
+  - {x: -5.1447463, y: 3.879745}
+  - {x: -3.9682627, y: 2.771624}
+  - {x: -4.837086, y: 0.800171}
+  - {x: -6.3331785, y: 0.7932521}
+  - {x: -6.413936, y: -0.7931352}
+  - {x: -4.909311, y: -0.9042914}
+  - {x: -4.04737, y: -2.9257255}
+  - {x: -5.2004404, y: -3.946177}
+  - {x: -3.9824998, y: -5.099071}
+  - {x: -2.8838723, y: -4.0119147}
+  - {x: -0.93263084, y: -4.854419}
+  - {x: -0.8251074, y: -4.9595437}
+  - {x: -0.76178837, y: -5.9469876}
+  - {x: -0.81659085, y: -6.2744703}
+  - {x: 0.71553075, y: -6.320028}
+  - {x: 0.8681999, y: -4.8890076}
+  - {x: 2.9441214, y: -4.108917}
+  - {x: 3.8771808, y: -5.0164027}
+  - {x: 4.911705, y: -4.073215}
+  - {x: 5.142723, y: -3.9779537}
+  - {x: 4.1015987, y: -3.0284445}
+  - {x: 4.0554867, y: -2.5540578}
+  - {x: 4.9648542, y: -0.81620806}
+  - {x: 6.448428, y: -0.78639686}
+  - {x: 6.3937573, y: 0.8316768}
+--- !u!114 &11412504
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 130610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57c8d50f6e3acdd47befb927589ba181, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 120
+--- !u!114 &11453390
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 130610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d5a88879edbbd942afd55c152f38904, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nowVisible: 1
+--- !u!212 &21284772
+SpriteRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 130610}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000e000000000000000, type: 0}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_ReflectionProbeUsage: 0
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300008, guid: a7309475e581d234996c8aee1bc93d98, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 130610}
+  m_IsPrefabParent: 1
